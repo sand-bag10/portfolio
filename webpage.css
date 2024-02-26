@@ -1,0 +1,29 @@
+nav {
+    font-family: Calibri, sans-serif;
+}
+
+nav ol {
+    list-style: none; /* Remove default list styling */
+    padding: 0; /* Remove default padding */
+    margin: 0; /* Remove default margin */
+}
+
+nav li {
+    display: inline; /* Display list items horizontally */
+    margin-right: 10px; /* Add some space between items */
+}
+
+
+
+
+.about{
+
+}
+
+.work{
+
+}
+
+.contact{
+
+}
